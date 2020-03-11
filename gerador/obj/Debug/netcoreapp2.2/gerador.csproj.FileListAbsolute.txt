@@ -1,0 +1,11 @@
+C:\Users\fabriciocosta\Documents\geradorArquivoCNAB\gerador\bin\Debug\netcoreapp2.2\gerador.deps.json
+C:\Users\fabriciocosta\Documents\geradorArquivoCNAB\gerador\bin\Debug\netcoreapp2.2\gerador.runtimeconfig.json
+C:\Users\fabriciocosta\Documents\geradorArquivoCNAB\gerador\bin\Debug\netcoreapp2.2\gerador.runtimeconfig.dev.json
+C:\Users\fabriciocosta\Documents\geradorArquivoCNAB\gerador\bin\Debug\netcoreapp2.2\gerador.dll
+C:\Users\fabriciocosta\Documents\geradorArquivoCNAB\gerador\bin\Debug\netcoreapp2.2\gerador.pdb
+C:\Users\fabriciocosta\Documents\geradorArquivoCNAB\gerador\obj\Debug\netcoreapp2.2\gerador.csprojAssemblyReference.cache
+C:\Users\fabriciocosta\Documents\geradorArquivoCNAB\gerador\obj\Debug\netcoreapp2.2\gerador.csproj.CoreCompileInputs.cache
+C:\Users\fabriciocosta\Documents\geradorArquivoCNAB\gerador\obj\Debug\netcoreapp2.2\gerador.AssemblyInfoInputs.cache
+C:\Users\fabriciocosta\Documents\geradorArquivoCNAB\gerador\obj\Debug\netcoreapp2.2\gerador.AssemblyInfo.cs
+C:\Users\fabriciocosta\Documents\geradorArquivoCNAB\gerador\obj\Debug\netcoreapp2.2\gerador.dll
+C:\Users\fabriciocosta\Documents\geradorArquivoCNAB\gerador\obj\Debug\netcoreapp2.2\gerador.pdb
